@@ -148,7 +148,7 @@ pip install torch torchvision matplotlib numpy
 ### Running the Training Script
 Run the self-contained script using Python:
 ```bash
-python train.py
+python train_fallback.py
 ```
 
 ### Outputs Generated
